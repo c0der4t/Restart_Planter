@@ -1,0 +1,10 @@
+C:\Users\monte\Documents\Software\C#\RestartPlanter\bin\Debug\RestartPlanter.exe.config
+C:\Users\monte\Documents\Software\C#\RestartPlanter\bin\Debug\RestartPlanter.exe
+C:\Users\monte\Documents\Software\C#\RestartPlanter\bin\Debug\RestartPlanter.pdb
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.csprojAssemblyReference.cache
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.frmMain.resources
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.Properties.Resources.resources
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.csproj.GenerateResource.cache
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.exe
+C:\Users\monte\Documents\Software\C#\RestartPlanter\obj\Debug\RestartPlanter.pdb
