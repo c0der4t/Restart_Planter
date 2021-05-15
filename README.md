@@ -16,3 +16,5 @@ C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 - The application asks for admin rights to perform the action, this is to demonstrate how easily people will just allow admin rights to software
 - Once the application has ran, it displays the following screen:
+
+![Screenshot](https://github.com/c0der4t/Restart_Planter/blob/main/img/screenshot1.jpg)
